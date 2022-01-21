@@ -1,0 +1,10 @@
+D:\OOP-2\app5\obj\Debug\app5.csprojAssemblyReference.cache
+D:\OOP-2\app5\obj\Debug\app5.Form1.resources
+D:\OOP-2\app5\obj\Debug\app5.Properties.Resources.resources
+D:\OOP-2\app5\obj\Debug\app5.csproj.GenerateResource.cache
+D:\OOP-2\app5\obj\Debug\app5.csproj.CoreCompileInputs.cache
+D:\OOP-2\app5\bin\Debug\app5.exe.config
+D:\OOP-2\app5\bin\Debug\app5.exe
+D:\OOP-2\app5\bin\Debug\app5.pdb
+D:\OOP-2\app5\obj\Debug\app5.exe
+D:\OOP-2\app5\obj\Debug\app5.pdb
